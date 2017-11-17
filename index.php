@@ -1,6 +1,9 @@
 <?php 
 
+
 	echo "Ola mundo 123";
 
-	echo "Ola valter"
+	echo "Ola mundo e Ola valter";
+
+	
  ?>
